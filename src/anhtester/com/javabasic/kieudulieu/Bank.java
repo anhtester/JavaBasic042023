@@ -7,6 +7,7 @@ public class Bank {
     static String ADDRESS = "Ô Môn, Cần Thơ";
     static String PHONE = "0939206009";
     static float INTEREST_RATE = 7.3F;
+    static String EMAIL = "admin@example.com";
 
     public static void getBankInfo() {
         //Viết nhiều dòng code trong đây
