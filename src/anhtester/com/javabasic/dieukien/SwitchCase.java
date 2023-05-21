@@ -20,7 +20,7 @@ public class SwitchCase {
         String OS = "Win";
         String BROWSER = "Chrome";
 
-        switch (OS){
+        switch (OS) {
             case "Win":
                 System.out.println("Run test on platform Windows");
                 //Đoạn code khởi tạo cho windows

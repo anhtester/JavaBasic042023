@@ -19,6 +19,7 @@ public class PhuongThucCoThamSo {
     public static void main(String[] args) {
         System.out.println("Tiền lãi sau 12 tháng: " + tinhLai(100000000));
         System.out.println("Cộng 2 số nguyên: " + cong2SoNguyen(15, 20));
+        
     }
 
 }

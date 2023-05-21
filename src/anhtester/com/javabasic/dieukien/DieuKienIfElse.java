@@ -8,7 +8,7 @@ public class DieuKienIfElse {
         String name = "Auto";
         String message = "Add Category successful.";
 
-        if(age > 20 && (name.equals("Manual") || message.contains("success"))){
+        if (age > 20 && (name.equals("Manual") || message.contains("success"))) {
             System.out.println("Thoả điều kiện");
         }
 
@@ -18,6 +18,8 @@ public class DieuKienIfElse {
         } else {
             System.out.println("Số " + number + " là số lẻ.");
         }
+
+        System.out.println();
 
 
     }
